@@ -1,17 +1,22 @@
-
 import java.util.Scanner;
 
 public class Mini {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Ingrese su nombre: ");
-        String nombre = scanner.nextLine();
-        System.out.print("Ingrese su edad: ");
-        int edad = scanner.nextInt();
-        System.out.print("Ingrese su altura en metros: ");
-        double altura = scanner.nextDouble();
 
-        System.out.println("Hola, " + nombre + ". Tienes " + edad + " años y mides " + altura + " metros.");
+        System.out.print("Introduce el primer número: ");
+        double num1 = scanner.nextDouble();
+
+        System.out.print("Introduce el segundo número: ");
+        double num2 = scanner.nextDouble();
+
+        System.out.print("Introduce el tercer número: ");
+        double num3 = scanner.nextDouble();
+
+        double media = (num1 + num2 + num3) / 3;
+
+        // Resultado
+        System.out.printf("La media de los tres números es: %.2f%n", media);
         scanner.close();
     }
 }
