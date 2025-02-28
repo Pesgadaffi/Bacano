@@ -16,7 +16,7 @@ public class Mini {
         double media = (num1 + num2 + num3) / 3;
 
         // Resultado
-        System.out.printf("La media de los tres números es: %.2f%n", media);
+        System.out.printf("La media de los tres números es: " + media);
         scanner.close();
     }
 }
