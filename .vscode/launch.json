@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContadorNumPares",
+            "request": "launch",
+            "mainClass": "ContadorNumPares",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioUno",
+            "request": "launch",
+            "mainClass": "EjercicioUno",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
             "name": "Mini",
             "request": "launch",
             "mainClass": "Mini",

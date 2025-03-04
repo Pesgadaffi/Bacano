@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Mini {
+public class MayorDeTres {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -13,9 +13,18 @@ public class Mini {
         System.out.print("Introduce el tercer número: ");
         double num3 = scanner.nextDouble();
 
-        double media = (num1 + num2 + num3) / 3;
+        double mayor;
 
-        System.out.printf("La media de los tres números es: " + media);
+        if (num1 >= num2 && num1 >= num3) {
+            mayor = num1;
+        } else if (num2 >= num1 && num2 >= num3) {
+            mayor = num2;
+        } else {
+            mayor = num3;
+        }
+
+        System.out.println("El mayor de los tres números es: " + mayor);
+
         scanner.close();
     }
 }
