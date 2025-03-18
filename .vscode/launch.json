@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BaseProgEjerc6",
+            "request": "launch",
+            "mainClass": "BaseProgEjerc6",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "BaseProgEjerc5",
+            "request": "launch",
+            "mainClass": "BaseProgEjerc5",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "BaseProgEjerc4",
+            "request": "launch",
+            "mainClass": "BaseProgEjerc4",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "BaseProgEjerc3",
+            "request": "launch",
+            "mainClass": "BaseProgEjerc3",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "BaseProgEjerc2",
+            "request": "launch",
+            "mainClass": "BaseProgEjerc2",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "BaseProgEjerc1copy",
+            "request": "launch",
+            "mainClass": "BaseProgEjerc1copy",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "BaseProgEjerc1",
+            "request": "launch",
+            "mainClass": "BaseProgEjerc1",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
             "name": "ContadorNumPares",
             "request": "launch",
             "mainClass": "ContadorNumPares",
