@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PromedioArray",
+            "request": "launch",
+            "mainClass": "PromedioArray",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "EjemploMatriz",
+            "request": "launch",
+            "mainClass": "EjemploMatriz",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
             "name": "BaseProgEjerc6",
             "request": "launch",
             "mainClass": "BaseProgEjerc6",
