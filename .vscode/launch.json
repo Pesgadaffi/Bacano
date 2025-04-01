@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiplicarMatrices",
+            "request": "launch",
+            "mainClass": "MultiplicarMatrices",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "MatricesIrregulares",
+            "request": "launch",
+            "mainClass": "MatricesIrregulares",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "TresEnRaya",
+            "request": "launch",
+            "mainClass": "TresEnRaya",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "Matriz3x3",
+            "request": "launch",
+            "mainClass": "Matriz3x3",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "InvertirArraysEnteros",
+            "request": "launch",
+            "mainClass": "InvertirArraysEnteros",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
             "name": "PromedioArray",
             "request": "launch",
             "mainClass": "PromedioArray",
