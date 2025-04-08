@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjercicioUno",
+            "request": "launch",
+            "mainClass": "unidadDos.EjercicioUno",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "BaseProgEjerc2",
+            "request": "launch",
+            "mainClass": "unidadUno.BaseProgEjerc2",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "BaseProgEjerc1",
+            "request": "launch",
+            "mainClass": "unidadUno.BaseProgEjerc1",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
             "name": "MultiplicarMatrices",
             "request": "launch",
             "mainClass": "MultiplicarMatrices",
