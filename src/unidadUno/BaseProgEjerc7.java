@@ -1,3 +1,4 @@
+package unidadUno;
 import java.util.Scanner;
 
 public class BaseProgEjerc7 {

@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Roxane",
+            "request": "launch",
+            "mainClass": "unidadDos.Roxane",
+            "projectName": "Bacano_4c3ef06e"
+        },
+        {
+            "type": "java",
+            "name": "GestionNotasEstudiantiles",
+            "request": "launch",
+            "mainClass": "programaPresentacion.GestionNotasEstudiantiles",
+            "projectName": "Bacano_4c3ef06e"
+        },
+        {
+            "type": "java",
+            "name": "ejercicioUno",
+            "request": "launch",
+            "mainClass": "unidadDos.ejercicioUno",
+            "projectName": "Bacano_4c3ef06e"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioUno",
+            "request": "launch",
+            "mainClass": "unidadDos.EjercicioUno",
+            "projectName": "Bacano_4c3ef06e"
+        },
+        {
+            "type": "java",
             "name": "EjercicioUno",
             "request": "launch",
             "mainClass": "unidadDos.EjercicioUno",
