@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GestionNotas",
+            "request": "launch",
+            "mainClass": "programaPresentacion.GestionNotas",
+            "projectName": "Bacano_4c3ef06e"
+        },
+        {
+            "type": "java",
             "name": "Roxane",
             "request": "launch",
             "mainClass": "unidadDos.Roxane",
