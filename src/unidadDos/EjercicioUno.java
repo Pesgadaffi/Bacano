@@ -2,7 +2,7 @@ package unidadDos;
 
 import java.util.Random;
 
-public class ejercicioUno {
+public class EjercicioUno {
     public static void main(String[] args) {
         int[] vectorNumeros = new int[10];
         Random rand = new Random();

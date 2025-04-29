@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EncontrarMayor",
+            "request": "launch",
+            "mainClass": "unidadDos.EncontrarMayor",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "EncontrarMayorcopy",
+            "request": "launch",
+            "mainClass": "unidadDos.EncontrarMayorcopy",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "unidadDos.Main",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
+            "name": "GestionNotas",
+            "request": "launch",
+            "mainClass": "programaPresentacion.GestionNotas",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
             "name": "GestionNotas",
             "request": "launch",
             "mainClass": "programaPresentacion.GestionNotas",
