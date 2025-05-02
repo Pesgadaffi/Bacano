@@ -9,11 +9,11 @@ public class GestionNotas {
         final double LIMITE_APROBACION = 3.0;
 
         // Miembro 1: Declaración de variables, arrays y entrada de datos
-        String[] nombres = new String[NUM_ESTUDIANTES];
+        String[] nombres = new String[NUM_ESTUDIANTES];  //String: textos o cadenas de caracteres
         String[] identificaciones = new String[NUM_ESTUDIANTES];
-        double[][] notas = new double[NUM_ESTUDIANTES][NUM_ASIGNATURAS];
+        double[][] notas = new double[NUM_ESTUDIANTES][NUM_ASIGNATURAS];  //Double: Numeros decimales
         double[] promedios = new double[NUM_ESTUDIANTES];
-        boolean[] aprobado = new boolean[NUM_ESTUDIANTES];
+        boolean[] aprobado = new boolean[NUM_ESTUDIANTES];  //Boolean: Tipo de dato que solo puede ser true o false
 
         Scanner scanner = new Scanner(System.in);
 
@@ -27,12 +27,12 @@ public class GestionNotas {
             for (int j = 0; j < NUM_ASIGNATURAS; j++) {
                 double nota;
                 do {
-                    System.out.println("Ingrese la nota " + (j + 1) + " del estudiante " + nombres[i] + " (entre 0.0 y 5.0):");
+                    System.out.println("Ingrese la nota " + (j + 1) + " del estudiante " + nombres[i] + " (entre 0.0 y 5.0):");  //do-while: ejecuta un bloque del codigo al menos una vez y luego lo repite mientras se repita una condicion, aqui es ngresar al menos una vez la nota
                     nota = scanner.nextDouble();
                     if (nota < 0.0 || nota > 5.0) {
                         System.out.println("Nota inválida. Debe estar entre 0.0 y 5.0.");
                     }
-                } while (nota < 0.0 || nota > 5.0);
+                } while (nota < 0.0 || nota > 5.0); //Garantizar q el usuario ingrese una nota valida sin necesidad de bucles complejos
                 notas[i][j] = nota;
             }
             scanner.nextLine(); // Limpiar el buffer de entrada
