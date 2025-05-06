@@ -1,4 +1,4 @@
-package unidadDos;
+package unidadDos.Arrays;
 
 import java.util.Random;
 

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjercicioDos",
+            "request": "launch",
+            "mainClass": "unidadDos.EjercicioDos",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
             "name": "EncontrarMayor",
             "request": "launch",
             "mainClass": "unidadDos.EncontrarMayor",
