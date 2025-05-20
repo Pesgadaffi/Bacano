@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BatallaLOL",
+            "request": "launch",
+            "mainClass": "unidadDos.BatallaLOL",
+            "projectName": "Bacano_8e7e2136"
+        },
+        {
+            "type": "java",
             "name": "EjercicioDos",
             "request": "launch",
             "mainClass": "unidadDos.EjercicioDos",
