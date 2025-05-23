@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ModificacionDeUnArray",
+            "request": "launch",
+            "mainClass": "unidadDos.EjerciciosPracticos.ModificacionDeUnArray",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
+            "name": "MetodoDeValorModificado",
+            "request": "launch",
+            "mainClass": "unidadDos.EjerciciosPracticos.MetodoDeValorModificado",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
+            "name": "DemostracionRetornoPrimitivo",
+            "request": "launch",
+            "mainClass": "unidadDos.EjerciciosPracticos.DemostracionRetornoPrimitivo",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
+            "name": "ModificarUnObjeto",
+            "request": "launch",
+            "mainClass": "unidadDos.EjerciciosPracticos.ModificarUnObjeto",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "unidadDos.EjerciciosPracticos.Ejercicio2",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "unidadDos.EjerciciosPracticos.Ejercicio1",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
+            "name": "IntercambioFallido",
+            "request": "launch",
+            "mainClass": "unidadDos.EjerciciosPracticos.IntercambioFallido",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
             "name": "BatallaLOL",
             "request": "launch",
             "mainClass": "unidadDos.BatallaLOL",
