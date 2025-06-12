@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Demo.Main",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
+            "name": "JuegoBatallaEspacial",
+            "request": "launch",
+            "mainClass": "ProjectoFinal.JuegoBatallaEspacial",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
+            "name": "JuegoMarioBasico",
+            "request": "launch",
+            "mainClass": "ProjectoFinal.JuegoMarioBasico",
+            "projectName": "Bacano_9d25ee8d"
+        },
+        {
+            "type": "java",
             "name": "ModificacionDeUnArray",
             "request": "launch",
             "mainClass": "unidadDos.EjerciciosPracticos.ModificacionDeUnArray",
